@@ -17,4 +17,4 @@ The filters do work for this project, although there is room for some improvemen
  - Transform dates so they all have the same XX/XX/XXXX format.
  - Alter the listener to update after every keystroke to avoid any confusion in applying the filters without a button.
 
-Overall the project was a success. We have created visually pleasing webpage that has a table populated with UFO sightings, and the ability to filter the table data by multiple parameters.
+Overall the project was a success. We have created a visually pleasing webpage that has a table populated with UFO sightings, and the ability to filter the table data by multiple parameters.
