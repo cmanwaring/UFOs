@@ -5,10 +5,10 @@ The purpose of this project was to create an interactive webpage that allows the
 The webpage works well in filtering the results. The user simply needs to click into any of the filter fields, type in the value that they would like to use to filter the table, and then click out of the field or into a different one to apply the filters.
 
 In this image you can see that the table is not filtered until the cursor is moved from the text field.
-![After typing, but before moving the cursor](images/beforeclick.png)  
+![After typing, but before moving the cursor](static/images/beforeclick.png)  
   
 In this image I have clicked outside of the text field and the table is now filtered.
-![After clicking out of the text field the table is filtered](images/afterclick.png)
+![After clicking out of the text field the table is filtered](static/images/afterclick.png)
 ## Summary
 The filters do work for this project, although there is room for some improvements. Here is a list of possible improvements to make the filters more user-friendly.  
   
